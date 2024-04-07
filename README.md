@@ -18,11 +18,3 @@ This repository contains a custom template for quickly starting projects with Ne
 ## Why This Template?
 
 I created this template to streamline the process of starting new projects with Next.js by eliminating the need to manually remove unnecessary parts and configure dependencies and features I frequently use. Although it's primarily intended for my personal use, I've made it public so it can serve as a helpful starting point for other developers.
-
-## How to Use This Template?
-
-To use this template, you can simply run the following command, replacing `your-new-project` with the name of your new project:
-
-```bash
-npx create-next-app@latest your-new-project --example "https://github.com/ponerax/starter-nextjs/tree/main/"
-```
